@@ -257,8 +257,8 @@ class SiteController extends Controller
             'model' => $model
         ]);
     }
-    public function actionSay($message = 'Hello')
+    public function actionCharts($message = 'Hello')
     {
-        return $this->render('say', ['message' => $message]);
+        return $this->render('charts', ['message' => $message]);
     }
 }
