@@ -9,6 +9,7 @@ use yii\helpers\Html;
     <script src="assets/echarts.min.js"></script>
 </head>
 <body>
+	
     <!-- 为ECharts准备一个具备大小（宽高）的Dom -->
     <div id="main" style="width: 600px;height:400px;"></div>
     <script type="text/javascript">
@@ -18,7 +19,7 @@ use yii\helpers\Html;
         // 指定图表的配置项和数据
         var option = {
             title: {
-                text: 'ECharts 入门示例'
+                text: '示例'
             },
             tooltip: {},
             legend: {

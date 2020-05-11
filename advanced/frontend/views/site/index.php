@@ -11,7 +11,7 @@ $this->title = 'My Yii2 Application';
 
         <p class="lead">这是牛逼哄哄团队关于本次疫情相关主题的项目展示！</p>
 
-        <p><a class="btn btn-lg btn-success" href="http://www.yiiframework.com">分析数据</a></p>
+        <p><a class="btn btn-lg btn-success" href="http://localhost:8086/frontend/web/index.php?r=site%2Fcharts">分析数据</a></p>
     </div>
 
     <div class="body-content">
@@ -22,21 +22,21 @@ $this->title = 'My Yii2 Application';
 
                 <p>这是一个优秀的团队</p>
 
-                <p><a class="btn btn-default" href="http://www.yiiframework.com/doc/">Yii Documentation &raquo;</a></p>
+                <!--<p><a class="btn btn-default" href="http://www.yiiframework.com/doc/">Yii Documentation &raquo;</a></p>-->
             </div>
             <div class="col-lg-4">
                 <h2>应用</h2>
 
                 <p>我们有非常美观并且简单的页面</p>
 
-                <p><a class="btn btn-default" href="http://www.yiiframework.com/forum/">Yii Forum &raquo;</a></p>
+                <!--<p><a class="btn btn-default" href="http://www.yiiframework.com/forum/">Yii Forum &raquo;</a></p>-->
             </div>
             <div class="col-lg-4">
                 <h2>安全</h2>
 
                 <p>我们重视您的安全和隐私！好很好</p>
 
-                <p><a class="btn btn-default" href="http://www.yiiframework.com/extensions/">Yii Extensions &raquo;</a></p>
+                <!--<p><a class="btn btn-default" href="http://www.yiiframework.com/extensions/">Yii Extensions &raquo;</a></p>-->
             </div>
         </div>
 

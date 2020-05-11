@@ -37,7 +37,7 @@ AppAsset::register($this);
     ]);
     $menuItems = [
         ['label' => 'Home', 'url' => ['/site/index']],
-		['label' => '图表', 'url' => ['/site/charts']],
+		['label' => '图表', 'url' => ['/dxyarea']],
         ['label' => '团队介绍', 'url' => ['/site/about']],
         ['label' => 'Contact', 'url' => ['/site/contact']],
     ];
